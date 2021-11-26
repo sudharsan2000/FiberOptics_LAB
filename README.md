@@ -1,9 +1,9 @@
 # Fiber Optics Lab - Semester 7
 
-## Directory Tree 
+## Directory Tree
 
+```
 |   README.md
-|   tree.txt
 |   
 +---Expt-01
 |       Current(vs)Power graph for Laser.m
@@ -51,4 +51,5 @@
 |       
 \---Expt-10
         1. Estimation of independent channel accomadation in a region using a plot.m
-        2. Code for WDM systems.m
+        2. Code for WDM systems.m 
+```
